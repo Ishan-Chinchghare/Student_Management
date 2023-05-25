@@ -1,9 +1,6 @@
-## ⭐ Features
+## 
 
-- The students can fill in their details and give their documents.
-- The staff with admin privileges can login using the admin button on the main page.
-- After successful login, they are taken to the admin data page. They can see all responses there in table form.
-- A logout button is provided to avoid anyone else accessing the responses.
+This Student Management System (SMS) is a comprehensive software solution for efficient management of student information, enrollment, attendance, grades, and communication in educational institutions. Simplify administrative tasks and enhance the educational experience with our user-friendly interface.
 
 #### Webportal Page
 
